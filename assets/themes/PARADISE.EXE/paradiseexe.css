@@ -1,0 +1,19 @@
+@theme {
+  /* Magenta-Rose Shades */
+  --color-pe-magenta-darkest:   #710042;
+  --color-pe-magenta-deep:      #ae2850;
+  --color-pe-magenta-soft:      #e5587b;
+  --color-pe-rose-light:        #ec8da1;
+  --color-pe-rose-pale:         #fbccdc;
+
+  /* Neutral Shades */
+  --color-pe-white:             #ffffff;
+  --color-pe-black:             #000000;
+
+  /* Cyan-Turquoise Shades */
+  --color-pe-cyan-pale:         #95eef4;
+  --color-pe-cyan-soft:         #78d3d8;
+  --color-pe-cyan-bright:       #00b5ae;
+  --color-pe-cyan-deep:         #017c83;
+  --color-pe-cyan-darkest:      #005465;
+}

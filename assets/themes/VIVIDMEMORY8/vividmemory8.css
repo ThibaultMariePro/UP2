@@ -1,0 +1,17 @@
+@theme {
+  /* Magenta-Rose Shades */
+  --color-magenta-intense:   #e21c61;
+  --color-magenta-soft:      #e26159;
+  --color-magenta-deep:      #381631;
+
+  /* Peach-Yellow Shade */
+  --color-peach-bright:      #fea85f;
+
+  /* Sand-Neutral Shade */
+  --color-sand-muted:        #d8dcb4;
+
+  /* Teal-Aqua Shades */
+  --color-teal-soft:         #5eb6ad;
+  --color-teal-medium:       #1b958d;
+  --color-teal-deep:         #105390;
+}

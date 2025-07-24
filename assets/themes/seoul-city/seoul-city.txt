@@ -1,0 +1,11 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Seoul City
+;Description: <img class="emoji p12" src="/emoji/pixemoji12/hmm.png">&nbsp;This palette I made reminded me of my time in Seoul, hence the name!
+;Colors: 6
+FF26547c
+FFef476f
+FFf78c6b
+FFffd166
+FF06d6a0
+FFfffcf9

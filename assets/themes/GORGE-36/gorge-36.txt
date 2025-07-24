@@ -1,0 +1,41 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Gorge-36
+;Description: During a game jam with Frabjous Studios I used a palette named '<a href="https://lospec.com/palette-list/chasm" target="_blank">Chasm</a>' for the art assets.&nbsp; Now on a quest to make a&nbsp;<a href="https://bankwave.frabjousstudios.com/" target="_blank">full retail version of that effort</a>, I've put together a similar, but expanded palette.&nbsp; It's not very masterful, but I'd like to see what lospec can do with it.<img class="emoji p16" src="/emoji/lospec-discord/cool.png">&nbsp;Show me your pixels.
+;Colors: 36
+FFfd5e64
+FFd55175
+FFa74c79
+FF77476f
+FF4e3e5a
+FFfdfe89
+FFffc077
+FFe08d7b
+FFa76979
+FF664d63
+FF5efd8d
+FF5ad17c
+FF54a66a
+FF4d7d5b
+FF42564c
+FF5efdf7
+FF4ad0e2
+FF4da3c1
+FF507997
+FF475268
+FF5e64fd
+FF565ad4
+FF4f50ab
+FF464684
+FF3d3b5f
+FFf75edf
+FFc15ec7
+FF9258aa
+FF694e87
+FF494062
+FFffffff
+FFd2d2d4
+FFa7a6ab
+FF7d7c83
+FF56555e
+FF32313b

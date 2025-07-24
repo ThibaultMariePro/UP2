@@ -1,0 +1,17 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Paradise.exe
+;Description: A palette of fire and ice, beautiful contrast, and absolute bliss.
+;Colors: 12
+FF710042
+FFae2850
+FFe5587b
+FFec8da1
+FFfbccdc
+FFffffff
+FF95eef4
+FF78d3d8
+FF00b5ae
+FF017c83
+FF005465
+FF000000

@@ -1,0 +1,19 @@
+@theme {
+  /* Blue Base */
+  --color-sc-blue-deep:         #26547c;
+
+  /* Pink Base */
+  --color-sc-pink-vivid:        #ef476f;
+
+  /* Coral-Orange Base */
+  --color-sc-coral-soft:        #f78c6b;
+
+  /* Yellow Base */
+  --color-sc-yellow-warm:       #ffd166;
+
+  /* Mint-Green Base */
+  --color-sc-mint-bright:       #06d6a0;
+
+  /* Ivory Base */
+  --color-sc-ivory-light:       #fffcf9;
+}

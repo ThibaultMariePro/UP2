@@ -1,0 +1,21 @@
+@theme {
+  /* Plum & Deep Purple Shades */
+  --color-plum-darkest:   #201127;
+  --color-plum-deep:      #201433;
+  --color-plum-night:     #1b1e34;
+
+  /* Teal-Green Shades */
+  --color-teal-deep:      #355d68;
+  --color-teal-medium:    #6aaf9d;
+  --color-teal-soft:      #94c5ac;
+
+  /* Golden Peach Shades */
+  --color-gold-pale:      #ffeb99;
+  --color-peach-soft:     #ffc27a;
+  --color-peach-muted:    #ec9a6d;
+
+  /* Rose-Magenta Shades */
+  --color-rose-warm:      #d9626b;
+  --color-magenta-soft:   #c24b6e;
+  --color-magenta-deep:   #a73169;
+}

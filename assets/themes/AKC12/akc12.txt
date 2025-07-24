@@ -1,0 +1,17 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: AKC12
+;Description: A palette I made for a fictional computer of the same name. here's a little lore I made lol, "The AKC12 (AEON Krystal Computer). A revolutionary computer with its patented Optic Computing 'Krystal Processors', it shows us what the future of computers might just be like like"- Technology Magazine, October 1986
+;Colors: 12
+FF201127
+FF201433
+FF1b1e34
+FF355d68
+FF6aaf9d
+FF94c5ac
+FFffeb99
+FFffc27a
+FFec9a6d
+FFd9626b
+FFc24b6e
+FFa73169

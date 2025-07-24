@@ -1,0 +1,50 @@
+@theme {
+  /* Red-Pink Shades */
+  --color-red-pink-electric: #fd5e64;
+  --color-red-pink-vibrant:  #d55175;
+  --color-red-pink-medium:   #a74c79;
+  --color-red-pink-deep:     #77476f;
+  --color-red-pink-dark:     #4e3e5a;
+
+  /* Apricot-Yellow Shades */
+  --color-apricot-bright:    #fdfe89;
+  --color-apricot-soft:      #ffc077;
+  --color-apricot-muted:     #e08d7b;
+  --color-apricot-dusty:     #a76979;
+  --color-apricot-deep:      #664d63;
+
+  /* Green Shades */
+  --color-green-mint:        #5efd8d;
+  --color-green-fresh:       #5ad17c;
+  --color-green-herbal:      #54a66a;
+  --color-green-muted:       #4d7d5b;
+  --color-green-dark:        #42564c;
+
+  /* Cyan-Teal Shades */
+  --color-cyan-bright:       #5efdf7;
+  --color-cyan-vibrant:      #4ad0e2;
+  --color-cyan-medium:       #4da3c1;
+  --color-cyan-deep:         #507997;
+  --color-cyan-dark:         #475268;
+
+  /* Indigo-Blue Shades */
+  --color-indigo-bright:     #5e64fd;
+  --color-indigo-strong:     #565ad4;
+  --color-indigo-medium:     #4f50ab;
+  --color-indigo-deep:       #464684;
+  --color-indigo-dark:       #3d3b5f;
+
+  /* Magenta-Purple Shades */
+  --color-magenta-electric:  #f75edf;
+  --color-magenta-medium:    #c15ec7;
+  --color-magenta-deep:      #9258aa;
+  --color-magenta-dark:      #694e87;
+  --color-magenta-shadow:    #494062;
+
+  /* Grayscale Neutrals */
+  --color-gray-white:        #ffffff;
+  --color-gray-light:        #d2d2d4;
+  --color-gray-medium:       #a7a6ab;
+  --color-gray-deep:         #7d7c83;
+  --color-gray-dark:         #56555e;
+}
