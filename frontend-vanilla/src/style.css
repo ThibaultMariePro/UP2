@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "../../assets/themes/PARADISE.EXE/paradiseexe.css";
+
+.tile {
+  @apply h-20 w-20 backdrop-blur-3xl bg-clip-padding backdrop-filter;
+  @apply rounded-lg shadow-lg transition-all duration-300 ease-in-out;
+  @apply p-2 flex justify-center items-center text-center text-pe-cyan-darkest;
+
+  &:active {
+    @apply transform scale-95 shadow-md;
+  }
+
+}
