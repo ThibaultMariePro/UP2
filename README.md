@@ -12,3 +12,11 @@ Features
 - **Mood Tracking**: Log your daily mood and see trends over time.
 - **Graphs**: Visualize your mood and activity data with interactive graphs.
 - **Lists**: Create and manage lists for tasks, goals, or anything else.
+
+Stack
+--------
+- **Language**: TypeScript.
+- **Frontend**: React.js, Tailwind CSS, React Native.
+- **Backend**: Node.js, Express.js, PostgreSQL.
+
+
