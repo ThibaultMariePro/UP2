@@ -38,4 +38,10 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+// backend/server.js or app.js
+app.get('/api/hello', (req, res) => {
+  res.json({ message: "Hello from Express!" });
+});
+
+
 module.exports = app;
